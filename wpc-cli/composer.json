@@ -1,0 +1,12 @@
+{
+    "name": "alexyoung/wpc-cli",
+    "authors": [
+        {
+            "name": "Alex Young",
+            "email": "alex.young@clearlink.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
